@@ -151,14 +151,4 @@ Cliente
        |
        +--> Combina resultados y responde al Cliente
 ```
-
 ---
-
-## ✅ Conclusión
-Este proyecto muestra los principios clave de un **sistema distribuido tolerante a fallos**:
-- Coordinación centralizada.  
-- Ejecución en paralelo.  
-- Balanceo de carga.  
-- Manejo de fallos en workers.  
-
-Es una base práctica para entender **modelado, comunicación, tolerancia a fallos y replicación mínima** en sistemas distribuidos.  
